@@ -12,7 +12,7 @@ Passionate about building modern, user-friendly web applications
 
 ## <img src="https://img.icons8.com/ios-filled/50/228B22/rocket.png" width="28"/> Current Project
 
-**Social Media App** – My capstone project, a full-stack web application built from scratch. Currently in development!
+**Social Media App** – Building a full-stack Instagram clone as a group project with React 19, TypeScript, and Supabase. Features include user authentication (email/Google OAuth), post creation with image uploads, real-time interactions (likes, comments, follows), and a personalized feed system with hashtag support and user search.
 
 ---
 
