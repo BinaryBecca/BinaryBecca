@@ -3,9 +3,9 @@
 ## <img src="https://img.icons8.com/ios-filled/50/228B22/user-female-circle.png" width="28"/> About Me
 
 Aspiring **Frontend Developer** from Trier, Germany  
-Recently completed an intensive Web Development Bootcamp at <a href="https://www.supercode.de"><img src="https://img.shields.io/badge/-SuperCode-90EE90?style=flat" align="center"/></a> (June – December 2025)
-Currently expanding my skills and working on personal projects
-Passionate about building modern, user-friendly web applications
+Recently completed an intensive Web Development Bootcamp at <a href="https://www.supercode.de"><img src="https://img.shields.io/badge/-SuperCode-90EE90?style=flat" align="center"/></a> (June – December 2025).
+Currently expanding my skills and working on personal projects.
+Passionate about building modern, user-friendly web applications.
 
 ## <img src="https://img.icons8.com/ios-filled/50/228B22/wrench.png" width="28"/> Tech Stack
 
