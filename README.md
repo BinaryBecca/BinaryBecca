@@ -18,7 +18,7 @@ Passionate about building modern, user-friendly web applications.
 ---
 
 <p align="center">
-  <i>Open for internships and junior positions starting January 2026</i>
+  <i>Open for internships and junior positions starting February 2026</i>
 </p>
 
 <p align="center">
