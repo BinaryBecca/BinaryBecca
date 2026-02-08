@@ -11,9 +11,9 @@ Passionate about building modern, user-friendly web applications.
 
 `React` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS` ·  `Supabase` · `Git`
 
-## <img src="https://img.icons8.com/ios-filled/50/228B22/rocket.png" width="28"/> Current Project
+## <img src="https://img.icons8.com/ios-filled/50/228B22/rocket.png" width="28"/> Recent Project
 
-<a href="https://github.com/nucito101/TokTok"><img src="https://img.shields.io/badge/-Nøstgrm-90EE90?style=flat" align="center"/></a> – Building a full-stack Instagram clone as a group project with React 19, TypeScript, and Supabase. Features include user authentication (email/Google OAuth), post creation with image uploads, real-time interactions (likes, comments, follows), and a personalized feed system with hashtag support and user search.
+<a href="https://github.com/nucito101/TokTok"><img src="https://img.shields.io/badge/-Nøstgrm-90EE90?style=flat" align="center"/></a> – Built a full-stack Instagram clone as final bootcamp group project with React 19, TypeScript, and Supabase. Features include user authentication (email/Google OAuth), post creation with image uploads, real-time interactions (likes, comments, follows), and a personalized feed system with hashtag support and user search.
 
 ---
 
