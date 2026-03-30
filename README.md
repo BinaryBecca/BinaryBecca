@@ -11,7 +11,7 @@ Passionate about building modern, user-friendly web applications.
 
 ## <img src="https://img.icons8.com/ios-filled/50/228B22/rocket.png" width="28"/> Favourite Projects
 
-<a href="https://zero-effort-ordering.vercel.app/"><img src="https://img.shields.io/badge/-UTE-90EE90?style=flat" align="center"/></a> – Built a voice-first ordering system for bakery sellers that lets them stay in conversation with customers instead of looking at screens. UTE listens in real-time, recognizes products and quantities, detects allergens, and suggests cross-sells automatically. Won 1st place <img src="https://img.icons8.com/ios-filled/50/228B22/prize.png" width="16"/> at the <a href="https://www.baeko-hackathon.de/"><img src="https://img.shields.io/badge/-BÄKO Hackathon-2E8B57?style=flat&logoColor=white" align="center"/></a> with my team. Tech stack: React, Node.js, Mistral AI (Voxtral), Supabase. *(Voice input currently paused due to API costs.)*
+<a href="https://zero-effort-ordering.vercel.app/"><img src="https://img.shields.io/badge/-UTE-90EE90?style=flat" align="center"/></a> – Built a voice-first ordering system for bakery sellers that lets them stay in conversation with customers instead of looking at screens. UTE listens in real-time, recognizes products and quantities, detects allergens, and suggests cross-sells automatically. Won 1st place <img src="https://img.icons8.com/ios-filled/50/228B22/prize.png" width="16"/> at the <a href="https://www.baeko-hackathon.de/#ergebnisse"><img src="https://img.shields.io/badge/-BÄKO Hackathon-2E8B57?style=flat&logoColor=white" align="center"/></a> with my team. Tech stack: React, Node.js, Mistral AI (Voxtral), Supabase. *(Voice input currently paused due to API costs.)*
 
 <br/>
 
