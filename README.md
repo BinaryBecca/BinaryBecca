@@ -5,6 +5,7 @@ Aspiring **Frontend Developer** from Trier, Germany
 Recently completed an intensive Web Development Bootcamp at <a href="https://www.supercode.de"><img src="https://img.shields.io/badge/-SuperCode-2E8B57?style=flat&logoColor=white" align="center"/></a> (June – December 2025).  
 Currently expanding my skills and working on personal projects.  
 Passionate about building modern, user-friendly web applications.
+Newly discovered **Hackathon Enthusiast** — love the energy of building something real under pressure.
 
 ## <img src="https://img.icons8.com/ios-filled/50/228B22/wrench.png" width="28"/> Tech Stack
 `React` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS` · `Supabase` · `Git`
